@@ -55,9 +55,7 @@ Feel free to file a new issue with a respective title and description on the **H
 
 ## Contribution :📲
 1. Clone the repository 
-```
-$git clone https://github.com/Aayush9027/Herculean-Hand.git
-```
+
 2. Check the status of your file 
 ```
 $git status
